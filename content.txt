@@ -36,3 +36,12 @@ View menu
 
 Working closely with our chef, we’ve developed a special 5-course tasting menu for weddings and events.
 
+
+Dev Dependencies
+"browser-sync": "^2.27.9", --- renders the updates automatically
+"gulp": "^4.0.2", --- a script that carries out mulitple commandline taks
+"gulp-clean-css": "^4.3.0", --- Cleans the css by making it a One-line code block for effiency
+"gulp-sass": "^5.1.0", --- adding sass features to the gulp project
+"gulp-sourcemaps": "^3.0.0", --- tracks the source of any errors from the orignal file for accurate debugging
+"node-sass": "^7.0.1",  --- ???
+"sass": "^1.50.0"
